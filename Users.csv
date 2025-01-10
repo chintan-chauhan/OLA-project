@@ -1,0 +1,6 @@
+user_id,name,email,phone,password,role,created_at
+1,vevek,vevek32@gmail.com,9865746165,vevek@123,rider,"2025-01-09 14:29:53"
+2,rajat,rajat98@outlook.com,9865432864,rajat@321,driver,"2025-01-09 14:29:53"
+3,dhruv,lordoreo@gmail.com,7801865465,Lordoreo1,driver,"2025-01-09 14:29:53"
+4,dhruvin,dhruvin89@gmail.com,8320383560,dhruvin98,rider,"2025-01-09 14:29:53"
+5,chintan,chintan50@gmail.com,9104998836,chintan987,rider,"2025-01-09 14:29:53"

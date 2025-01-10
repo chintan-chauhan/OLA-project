@@ -1,0 +1,2 @@
+payment_id,ride_id,amount,payment_method,payment_status,payment_date
+1,1,300.00,cash,success,"2025-01-09 19:45:47"
